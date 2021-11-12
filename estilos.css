@@ -1,0 +1,96 @@
+header div h2{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 30px;
+    color: #000000;
+}
+
+.titl-div{
+    width: 1014px;
+    height: 78px;
+    background: #25718F;
+    border-radius: 0px 50px 50px 0px;
+    margin-bottom: 103px;
+}
+
+.sec1 h1{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    color: #FFFFFF;
+}
+
+.card{
+    padding: 0px;
+    border: solid #25718F 2px;
+    border-radius: 12px;
+    width: 407.88px;
+    height: 558.88px;
+    margin-bottom: 40px;
+}
+
+.card div div{
+    width: 278.21px;
+    height: 47.6px;
+    background: #25718F;
+    opacity: 0.7;
+    border-radius: 50px;
+    margin-top: 24px;
+    align-items: center;
+}
+
+.card div h3{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 35px;
+    color: #FFFFFF;
+}
+
+
+
+.card-text{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    
+    margin-top: 31px;
+    margin-bottom: 0px;
+}
+
+.autor{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: #F2A324;
+}
+
+footer{
+    height: 245px;
+    background: linear-gradient(180deg, rgba(37, 113, 143, 0.72) 0%, #25718F 100%);
+    margin-top: 135px;
+    padding-top: 45px;
+}
+
+footer p{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    color: #FFFFFF;
+    margin-top: 35px;
+}
+
+footer div{
+    justify-content: center;
+}
+
+.mb-3{
+    margin-left: 143px;
+}
